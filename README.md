@@ -43,36 +43,32 @@ The app uses **Firebase** for authentication and data storage, **Google Maps API
 ## 🛠 Installation
 
 1. Clone the repository:
-```bash
-git clone https://github.com/sxjjad-Mehmood/flutter-travel-app-.git
+
+git clone https://github.com/sxjjad-Mehmood/flutter-travel-app-.git 
 2.  Navigate to the project folder:
 
   cd travel-app
 3. Install dependencies:
  flutter pub get
 4. Run the app on an emulator or connected device:
-  flutter run
+  flutter run 
+
+---
 📖 Usage
 
-1. Launch the app on your device/emulator
+1. Launch the app on your device or emulator  
+2. Sign up or log in using Firebase authentication  
+3. Browse travel destinations with images and details  
+4. View locations on Google Maps  
+5. Add favorite places for quick access  
+6. Manage your travel preferences and profile  
 
-2 .Sign up or log in using Firebase authentication
+---
 
-3. Browse travel destinations
+🛠️ Technologies Used
 
-4. View locations on Google Maps
-
-5. Add favorite places for easy access
-🛠 Technologies Used
-
-Flutter – Cross-platform mobile app development
-
-Dart – Programming language for Flutter
-
-Firebase – Authentication and Firestore database
-
-Google Maps API – Interactive maps and location display
-
-Provider – State management
-
-
+- **Flutter** – Cross-platform mobile app development  
+- **Dart** – Programming language for Flutter  
+- **Firebase** – Authentication and Firestore database  
+- **Google Maps API** – Interactive maps and location display  
+- **Provider** – State management for reactive UI  
