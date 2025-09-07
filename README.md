@@ -28,19 +28,22 @@ The app uses **Firebase** for authentication and data storage, **Google Maps API
 
 ## 🖼 Screenshots
 
-![Home Screen](Screenshots/home.png)  
-![Login Screen](Screenshots/login.png)  
-![Destination Details](Screenshots/details.png)  
-![Destination Details 2](Screenshots/details1.png)  
-![Map View](Screenshots/map.png)  
-![Favorites](Screenshots/favourite.png)  
-![Messages](Screenshots/messages.png)  
-![Profile](Screenshots/profile.png)
+<img src="Screenshots/home.png" alt="Home Screen" width="400" /><br>
+<img src="Screenshots/login.png" alt="Login Screen" width="400" /><br>
+<img src="Screenshots/details.png" alt="Destination Details" width="400" /><br>
+<img src="Screenshots/details1.png" alt="Destination Details - Extended View" width="400" /><br>
+<img src="Screenshots/map.png" alt="Map View" width="400" /><br>
+<img src="Screenshots/favourite.png" alt="Favorites Screen" width="400" /><br>
+<img src="Screenshots/messages.png" alt="Messages Screen" width="400" /><br>
+<img src="Screenshots/profile.png" alt="User Profile Screen" width="400" /><br>
+
+
 
 
 ---
 
 ## 🛠 Installation
+```bash
 
 1. Clone the repository:
 
@@ -51,10 +54,12 @@ git clone https://github.com/sxjjad-Mehmood/flutter-travel-app-.git
 3. Install dependencies:
  flutter pub get
 4. Run the app on an emulator or connected device:
-  flutter run 
+  flutter run  
+  ``` 
 
 ---
-📖 Usage
+## 📖 Usage
+
 
 1. Launch the app on your device or emulator  
 2. Sign up or log in using Firebase authentication  
@@ -65,7 +70,8 @@ git clone https://github.com/sxjjad-Mehmood/flutter-travel-app-.git
 
 ---
 
-🛠️ Technologies Used
+## 🛠️ Technologies Used
+
 
 - **Flutter** – Cross-platform mobile app development  
 - **Dart** – Programming language for Flutter  
